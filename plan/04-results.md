@@ -33,18 +33,30 @@
 
 ## What I Learned
 
-1. [Insight tentang process / RTCC-O]
+1. **RTCC-O Framework**: Menggunakan kerangka kerja Role, Task, Context, Constraints, dan Output dalam memberikan prompt sangat efektif untuk mendapatkan hasil yang presisi. Seluruh pondasi project (HTML, CSS, JS) berhasil dibangun dalam satu kali iterasi besar karena instruksi yang sangat detail.
 
-2. [Insight tentang semantic HTML / CSS]
+2. **Semantic HTML & Modern CSS**: Pentingnya menggunakan elemen semantik (`<main>`, `<section>`, `<article>`) bukan hanya untuk SEO, tapi juga untuk standar WCAG agar website aksesibel bagi semua orang. Penggunaan CSS Custom Properties dan Flexbox/Grid modern memungkinkan pembuatan desain premium dari scratch tanpa bantuan framework.
 
-3. [Insight tentang collaboration dengan AI]
+3. **Kolaborasi dengan AI**: AI sangat kuat dalam menghasilkan boilerplate dan logika dasar dengan cepat. Namun, peran manusia sangat krusial dalam melakukan fine-tuning, memastikan detail visual (seperti perbaikan alignment footer), dan mengintegrasikan konten personal agar portfolio terasa otentik.
 
 ---
 
 ## Challenges & Solutions
 
-Challenge 1: [Deskripsi]
-How I Solved: [Solution]
+Challenge 1: **Mobile Alignment (Footer)**
+Awalnya, footer tidak terlihat benar-benar berada di tengah pada ukuran layar mobile yang sangat kecil.
+**How I Solved**: Melakukan iterasi pada `style.css` dengan menerapkan Flexbox secara agresif pada `.footer` dan `.container`, serta menambahkan `min-height` dan padding khusus di media query mobile untuk memastikan konten benar-benar terpusat secara visual.
 
-Challenge 2: [Deskripsi]
-How I Solved: [Solution]
+Challenge 2: **Menyeimbangkan Animasi & Performa**
+Ingin memberikan kesan "playful" dengan banyak animasi scroll, namun tetap menjaga website terasa ringan dan cepat.
+**How I Solved**: Menggunakan `IntersectionObserver` di Vanilla JavaScript untuk memicu animasi hanya saat elemen masuk ke viewport (reveal effect). Ini menjaga performa tetap optimal dibandingkan menggunakan library berat atau listener scroll tradisional.
+
+## Checklist
+
+[x] Desktop screenshot ada?
+[x] Mobile screenshot ada?
+[x] No horizontal scroll?
+[x] All sections visible?
+[x] 3+ insights documented?
+[x] Challenges solved documented?
+[x] GitHub Pages URL available?
