@@ -838,10 +838,29 @@ p {
    Footer
    =========================== */
 .footer {
-  text-align: center;
   padding: var(--space-2xl) 0;
   color: var(--color-text-muted);
   font-size: 0.9rem;
+  background-color: var(--color-bg);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.footer .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .footer {
+    padding: var(--space-3xl) var(--container-padding);
+    min-height: 200px; /* Increased height to make it more prominent on mobile */
+  }
 }
 
 .footer a {
