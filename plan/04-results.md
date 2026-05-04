@@ -53,10 +53,10 @@ Ingin memberikan kesan "playful" dengan banyak animasi scroll, namun tetap menja
 
 ## Checklist
 
-[x] Desktop screenshot ada?
-[x] Mobile screenshot ada?
-[x] No horizontal scroll?
-[x] All sections visible?
-[x] 3+ insights documented?
-[x] Challenges solved documented?
-[x] GitHub Pages URL available?
+[✅] Desktop screenshot ada?
+[✅] Mobile screenshot ada?
+[✅] No horizontal scroll?
+[✅] All sections visible?
+[✅] 3+ insights documented?
+[✅] Challenges solved documented?
+[✅] GitHub Pages URL available?
