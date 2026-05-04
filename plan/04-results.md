@@ -11,23 +11,23 @@
 
 ## Screenshot: Desktop
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/1-hero-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/1-hero-section.png)
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/2-about-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/2-about-section.png)
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/3-tech-stack-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/3-tech-stack-section.png)
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/4-project-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/4-project-section.png)
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/5-experience-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/5-experience-section.png)
 
-![Desktop View](https://github.com/arielariadi/portfolio-homework/assets/screenshots/desktop/6-contact-section.png)
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/desktop/6-contact-section.png)
 
 ---
 
 ## Screenshot: Mobile
 
-[paste screenshot — responsive, no horizontal scroll]
+![Desktop View](https://github.com/arielariadi/portfolio-homework/blob/main/assets/screenshots/mobile/mobile-screen.png)
 
 ---
 
