@@ -4,7 +4,7 @@
 
 - **Nama:** Muhammad Ariel Ariadi
 - **Repository:** https://github.com/arielariadi/portfolio-homework
-- **Live URL:** [GitHub Pages URL]
+- **Live URL:** https://arielariadi.github.io/portfolio-homework/
 - **Date:** 4 Mei 2026
 
 ---

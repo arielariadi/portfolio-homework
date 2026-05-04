@@ -2,7 +2,7 @@
 
 Portfolio website personal yang dibangun dari scratch menggunakan HTML, CSS, dan JavaScript.
 
-**Live:** [Coming soon]
+**Live:** https://arielariadi.github.io/portfolio-homework/
 
 ### Tech Stack
 
@@ -17,20 +17,6 @@ Portfolio website personal yang dibangun dari scratch menggunakan HTML, CSS, dan
 - Glassmorphism navigation
 - WCAG accessibility compliant
 - Clean & semantic HTML structure
-
-### Structure
-
-```
-├── index.html       # Portfolio website
-├── style.css        # Design system & styles
-├── script.js        # Interactivity & animations
-├── assets/          # Screenshots & images
-└── plan/            # Process documentation
-    ├── 01-brainstorm.md
-    ├── 02-details.md
-    ├── 03-execution.md
-    └── 04-results.md
-```
 
 ### Run Locally
 
